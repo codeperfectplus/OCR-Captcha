@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+captcha_images_v2
+saved_model
+*.h5
